@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0cf96474c7da0428f5864f82303c01, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  storyText: "\rGodzilla mama enslaves all of Japan to do Godzilla dishes. Every day
+    the good innocent people of Japan clock in 5:00 AM to 8:00PM to attempt to make
+    a dent in the massive pile of Godzilla dishes. It doesn't help that the Godzilla
+    family keeps adding to the pile.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 4616f08b1ca9f0f4888d55b761e9c1df, type: 2}

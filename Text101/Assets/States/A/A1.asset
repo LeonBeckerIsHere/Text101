@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0cf96474c7da0428f5864f82303c01, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "The Godzilla dishes were a fucking mess. Godzilla mama's arms are tiny
+    af. She can't reach those sons of bitches. \r\n\r\nWhat should she do to clean
+    them?\r\n\r\n1. Enslave all of Japan to do Godzilla dishes\r\n2. Breathe fire"
+  nextStates:
+  - {fileID: 11400000, guid: 23b95a4e7b1754f40a3e51fd854589c6, type: 2}
+  - {fileID: 11400000, guid: 19b5fa3f5ea698f49be7f0b0ae87708e, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0cf96474c7da0428f5864f82303c01, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: "Fuck that man. Godzilla's don't have fucking laundry. You fucking dumbass.
+    You ever seen Godzilla wear a goddamn tea shirt. I should just game over you right
+    now you punk ass bitch.\r\n\r\nGodzilla's mama needs to little of some steam:\r\n\r\n1.
+    Go for a Godzilla run\r\n2. Take a dip in the Godzilla jacuzzi"
+  nextStates:
+  - {fileID: 11400000, guid: 27d0da653a81b7345b9cfa1cf35ca7d3, type: 2}
+  - {fileID: 11400000, guid: 628ccb73ec45c2e41959f73fbd14accd, type: 2}

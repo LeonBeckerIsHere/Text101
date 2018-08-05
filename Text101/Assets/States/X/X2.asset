@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0cf96474c7da0428f5864f82303c01, type: 3}
+  m_Name: X2
+  m_EditorClassIdentifier: 
+  storyText: "You Win?\r\nGodzilla mama's ice breath quells the flames leaving only
+    a frozen wasteland of a kitchen. Godzilla mama will have to spend at least 100,000
+    Godzilla bucks to fix the damage, but at least she doesn't have to worry about
+    those dishes...\r\n\r\n1. Restart?"
+  nextStates:
+  - {fileID: 11400000, guid: 7b4b2406afd94254fb5c2222ce70576c, type: 2}
